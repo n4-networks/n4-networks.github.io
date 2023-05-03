@@ -78,8 +78,8 @@ params:
       url: /agent
     - title: OpenWRT
       url: /openwrt
-  - title: Contact 
-    url: /contact
+  - title: Contacts 
+    url: /contacts
   section1:
     title: Great power comes
     subtitle: with great responsibility
